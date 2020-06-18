@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel public/index.html -p 8081"
+    "start": "parcel public/index.html -p 8081",
+    "build": "parcel public/index.html"
   },
   "keywords": [],
   "author": "",
